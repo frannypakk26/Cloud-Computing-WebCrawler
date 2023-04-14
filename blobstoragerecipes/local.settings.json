@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "blobtriggerrecipe_STORAGE": "DefaultEndpointsProtocol=https;AccountName=blobtriggerrecipe;AccountKey=JZWAqF93qhRbgLeiaAmh/pTu1eA4tQpSa12fxyHb4wrxiT6ESQRJKggQDmVcv0wz4g4b85/SIi19+AStr5zjng==;EndpointSuffix=core.windows.net"
+  }
+}
